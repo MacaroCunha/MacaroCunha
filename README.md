@@ -24,3 +24,10 @@
 </div>
 
  ![snake gif](https://github.com/MacaroCunha/MacaroCunha/blob/output/github-contribution-grid-snake.gif)
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+ ![snake gif](https://github.com/MacaroCunha/MacaroCunha/blob/output/github-contribution-grid-snake.gif)
+   
+</picture>
