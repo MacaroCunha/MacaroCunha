@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/maria-cunha-7862ab2ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
- ![snake gif](https://github.com/MacaroCunha/MacaroCunha/blob/output/github-snake-dark.svg
+ ![snake svg](https://github.com/MacaroCunha/MacaroCunha/blob/output/github-snake-dark.svg
